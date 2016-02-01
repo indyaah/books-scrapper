@@ -1,0 +1,11 @@
+{
+  "name": "book-scrapper",
+  "version": "0.0.1",
+  "description": "get pdfs without annoying registration.",
+  "main": "app.js",
+  "author": "Anuj Patel",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
